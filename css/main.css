@@ -1,0 +1,29 @@
+body {
+  background-image: url("../img/bg.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-attachment: fixed;
+  color: #fff;
+  text-shadow: 2px 2px 8px #000000; }
+
+.container {
+  min-width: 400px;
+  height: auto;
+  margin-top: 5em; }
+  .container .row {
+    margin-top: 80px; }
+  .container .well-wrap {
+    padding: 50px; }
+  .container #quote {
+    font-size: 1.4em;
+    text-transform: capitalize; }
+  .container #author {
+    margin-left: 100px;
+    font-style: italic;
+    font-size: 1.2em; }
+
+.footer {
+  font-size: 1.2em; }
+
+/*# sourceMappingURL=main.css.map */
